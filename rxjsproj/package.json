@@ -1,0 +1,16 @@
+{
+  "name": "rxjsproj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-loader": "^9.1.2",
+    "esm": "^3.2.25",
+    "rxjs": "^7.8.0"
+  }
+}
